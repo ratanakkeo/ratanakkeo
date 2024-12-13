@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ratanak
 
-A full-stack developer from Cambodia
+A full-stack dev from Cambodia.
 
 ## Connect with me:
 <p>
