@@ -57,17 +57,29 @@ A full-stack developer from Cambodia
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## Ratanak's GitHub Stats
-- ⭐ Total Stars Earned: 2
-- 📝 Total Commits (2024): 3
-- 🔀 Total PRs: 0
-- ❗ Total Issues: 1
-- 🤝 Contributed to (last year): 0
+## 📊 GitHub Stats
 
-## Activity Stats
-- Total Contributions: 399 (Jan 18, 2021 - Present)
-- Current Streak: 0 (Dec 13)
-- Longest Streak: 64 (Nov 10, 2022 - Jan 12, 2023)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ratanakkeo&show_icons=true&count_private=true&hide_title=true&theme=transparent" alt="GitHub Stats" />
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratanakkeo&theme=transparent&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratanakkeo&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratanakkeo&theme=transparent" alt="Activity Graph" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ratanakkeo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
