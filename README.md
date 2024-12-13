@@ -56,15 +56,10 @@ A full-stack developer from Cambodia
 
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Personal account stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ratanakkeo&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=transparent&custom_title=Personal Account Stats" alt="Personal GitHub Stats" />
-  
-  <!-- Organization stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kh-db-octo&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=transparent&custom_title=Organization Stats" alt="Organization GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ratanakkeo&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=transparent" alt="GitHub Stats" />
 </div>
 
 ## 🔥 Streak Stats
@@ -73,22 +68,16 @@ A full-stack developer from Cambodia
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratanakkeo&theme=transparent&hide_border=true&count_private=true" alt="GitHub Streak Stats"/>
 </div>
 
-## 💻 Most Used Languages (Combined)
+## 💻 Most Used Languages
 
 <div align="center">
-  <!-- Personal account languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratanakkeo&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true" width="45%" alt="Personal Top Languages" />
-  <!-- Organization languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-db-octo&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true" width="45%" alt="Organization Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratanakkeo&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <!-- Personal contribution graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratanakkeo&theme=transparent" alt="Personal Activity Graph" />
-  <!-- Organization contribution graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kh-db-octo&theme=transparent" alt="Organization Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratanakkeo&theme=transparent" alt="Activity Graph" />
 </div>
 
 <!-- Profile Views Counter -->
